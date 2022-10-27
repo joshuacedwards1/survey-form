@@ -17,10 +17,6 @@ fieldset {
     border: none;
 }
 
-label {
-    display: block;
-}
-
-input, textarea {
+input, textarea, label {
     display: block;
 }
