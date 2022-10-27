@@ -16,3 +16,7 @@ h1, p {
 fieldset {
     border: none;
 }
+
+label {
+    display: block;
+}
