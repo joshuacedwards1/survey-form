@@ -15,7 +15,7 @@ h1, p {
 
 fieldset {
     border: none;
-    padding: 0;
+    padding: 2rem 0;
 }
 
 label {
