@@ -37,4 +37,5 @@ input, textarea, select {
 
 .inline {
     width: unset;
+    vertical-align: middle;
 }
