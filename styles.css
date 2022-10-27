@@ -1,5 +1,5 @@
 body {
-    width: 100%;
+    width: 100vw;
     height: 100vh;
     margin: 0;
     background-color: #131520;
@@ -9,7 +9,7 @@ body {
 }
 
 h1, p {
-    margin: 1em auto;
+    margin: 34px auto;
     text-align: center;
 }
 
@@ -19,4 +19,9 @@ fieldset {
 
 input, textarea, label {
     display: block;
+}
+
+form {
+    width: 60%;
+    margin: 0 auto;
 }
