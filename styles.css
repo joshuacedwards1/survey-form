@@ -21,6 +21,6 @@ label {
     display: block;
 }
 
-input {
+input, textarea {
     display: block;
 }
