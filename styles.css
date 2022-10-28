@@ -39,3 +39,9 @@ input, textarea, select {
     width: unset;
     vertical-align: middle;
 }
+
+input, textarea {
+    background-color: #1e2c33;
+    border: 1px solid #1E2C33;
+    color: #fffafa;
+}
