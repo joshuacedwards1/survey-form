@@ -49,3 +49,7 @@ input, textarea {
 ::placeholder {
     color: #ffffff62;
 }
+
+input[type="submit"] {
+    border: 1px solid #ffffff;
+}
