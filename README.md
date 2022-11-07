@@ -1,2 +1,2 @@
 # survey-form
-I built this survey form to show my understanding of concepts regarding basic HTML, CSS, and form structure.
+I built this survey form to show my understanding of concepts regarding basic HTML, CSS, and form structure. I passed the "Build a Survey Form" freeCodeCamp project using the code I wrote here. Knowledge of the concepts demonstrated here was gained primarily from the freeCodeCamp curriculum. For a preview of the survey form, please visit https://joshuacedwards1.github.io/survey-form/.
