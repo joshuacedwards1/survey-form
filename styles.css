@@ -43,6 +43,10 @@ legend {
     margin-bottom: -2rem;
 }
 
+.inline-label {
+    font-weight: unset;
+}
+
 .inline {
     width: unset;
     vertical-align: middle;
