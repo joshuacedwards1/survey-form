@@ -37,6 +37,11 @@ input, textarea, select {
     border-radius: 0.3rem;
 }
 
+legend {
+    font-size: 1.1rem;
+    margin-bottom: -2rem;
+}
+
 .inline {
     width: unset;
     vertical-align: middle;
